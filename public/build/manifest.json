@@ -1,10 +1,10 @@
 {
   "resources/images/bg.jpg": {
-    "file": "assets/bg-eeee5007.jpg",
+    "file": "assets/bg-b4f7807e.jpg",
     "src": "resources/images/bg.jpg"
   },
   "resources/css/app.css": {
-    "file": "assets/app-3e3592e3.css",
+    "file": "assets/app-e6b04e3f.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
