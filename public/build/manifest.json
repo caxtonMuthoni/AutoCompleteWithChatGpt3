@@ -1,0 +1,27 @@
+{
+  "resources/images/bg.jpg": {
+    "file": "assets/bg-eeee5007.jpg",
+    "src": "resources/images/bg.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-3e3592e3.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/Pages/HomePage.vue": {
+    "file": "assets/HomePage-a36b50d3.js",
+    "src": "resources/js/Pages/HomePage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-5d00ab74.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/HomePage.vue"
+    ]
+  }
+}
